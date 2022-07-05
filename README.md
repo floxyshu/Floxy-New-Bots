@@ -1,16 +1,26 @@
-# Floxy-New-Bots
+# Floxy Yeni Botlar V13
+Yardım aldığım [serendia](https://discord.gg/serendia) sunucusundaki herkese birer birer teşekkürlerimi sunuyorum
+
 Yeni yapımına başlamış olduğum V13 Botlarımı yakında sizlerle paylaşıcam.
 
-# Ekran Görüntüleri
+-------------------------------------
+
+#Kurulum nasıl yapılır?
+
+Kurulumları config doldurmak yerine discord içerisinden doldurmaya özen gösteriyorum bana göre ben öyle alıştım
+Fakat bir kaç ayarlarıda configden doldurmak zorundasınız.
+
+-------------------------------------
 
 #Moderasyon
 
-Ekliyeceğim
+yakında bro 📸
 
 #Database
 
-Ekliyeceğim yakında
+yakında 📸
 
 #Guard
 
-ekliyecegiim
+yakında bro
+
