@@ -5,22 +5,22 @@ Yeni yapımına başlamış olduğum V13 Botlarımı yakında sizlerle paylaşı
 
 -------------------------------------
 
-#Kurulum nasıl yapılır?
+# Kurulum nasıl yapılır?
 
 Kurulumları config doldurmak yerine discord içerisinden doldurmaya özen gösteriyorum bana göre ben öyle alıştım
 Fakat bir kaç ayarlarıda configden doldurmak zorundasınız.
 
 -------------------------------------
 
-#Moderasyon
+# Moderasyon
 
-yakında bro 📸
+- yakında bro 📸
 
-#Database
+# Database
 
-yakında 📸
+- yakında 📸
 
-#Guard
+# Guard
 
-yakında bro
+- yakında bro
 
