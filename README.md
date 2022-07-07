@@ -1,3 +1,5 @@
+pc bozuldu gelince tam gaz devam edecegim
+
 # Floxy Yeni Botlar V13
 Yardım aldığım [serendia](https://discord.gg/serendia) sunucusundaki herkese birer birer teşekkürlerimi sunuyorum
 
